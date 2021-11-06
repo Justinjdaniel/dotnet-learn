@@ -4,3 +4,8 @@
 
 A place I'm trying out the new ASP.NET Core.
 
+## Some Resources links for dotnet
+
+  - https://dotnet.microsoft.com/learn/videos
+  - https://docs.microsoft.com/en-us/learn/dotnet/?WT.mc_id=dotnet-35129-website
+  - https://dotnet.microsoft.com/apps/aspnet/apis
